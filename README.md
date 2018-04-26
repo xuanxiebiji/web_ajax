@@ -33,5 +33,5 @@ B发起的url为：http://domain/client.php?from=2&to=1
 
 
 
-### 博文介绍：
-http://phpme.blog.51cto.com/663593/1890859
+### 更多技术交流：
+https://blog.csdn.net/gp_666/
